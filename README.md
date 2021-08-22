@@ -1,6 +1,6 @@
 Olá! Eu sou Silvan Moura 👋.
 ##
-- 😄 Tenho 19 anos
+- 😄 Tenho 18 anos
 - 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 2° período
 - 🌱 Estudando JavaScript
 <br>
