@@ -7,10 +7,10 @@ Olá! Eu sou Silvan Moura 👋.
 Sou um estudante de programação, apaixonado pelas melhores tecnologias de desenvolvimento front, mobile e back. Tenho experiência com projetos utilizando JavaScript. Sou aluno do curso FullStack B7WEB, onde estou aprendendo na prática as mais modernas tecnologias de desenvolvimento front, mobile e back.
 <br>
 <br>
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/SilvanMoura">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=SilvanMoura&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanMoura&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=SilvanMoura&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanMoura&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div style="display: inline-block"><br> 
   <img align="center" alt="Silcan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
