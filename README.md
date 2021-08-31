@@ -3,7 +3,7 @@ Olá! Eu sou Silvan Moura 👋.
 - 😄 Tenho 18 anos
 - 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 2° período
 - 🌱 Estudando JavaScript
-## <br>
+##
 Sou um estudante de programação, apaixonado pelas melhores tecnologias de desenvolvimento front, mobile e back. Tenho experiência com projetos utilizando JavaScript. Sou aluno do curso FullStack B7WEB, onde estou aprendendo na prática as mais modernas tecnologias de desenvolvimento front, mobile e back.
 <br>
 <br>
