@@ -17,7 +17,6 @@ Sou um estudante de programação, apaixonado pelas melhores tecnologias de dese
   <img align="center" alt="Silvan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silvan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
 ##
 
 
