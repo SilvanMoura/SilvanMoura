@@ -1,4 +1,4 @@
-Olá! Eu sou Silvan Moura 👋.
+Olá, eu sou Silvan Moura 👋.
 ##
 - 😄 Tenho 18 anos
 - 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 2° período
