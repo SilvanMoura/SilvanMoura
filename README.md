@@ -18,6 +18,8 @@ Sou um estudante de programação, apaixonado pelas melhores tecnologias de dese
   <img align="center" alt="Silvan-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Silvan-ReactJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Silvan-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Silvan-WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Silvan-FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
 </div>
 
 
