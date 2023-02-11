@@ -4,7 +4,7 @@ Olá, eu sou Silvan Moura 👋.
 - 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 4° período
 - 🌱 Estudando php e Laravel
 ##
-Sou um estudante de programação, apaixonado pelas melhores tecnologias de desenvolvimento front, mobile e back. Tenho experiência com projetos utilizando JavaScript. Sou aluno do curso FullStack B7WEB, onde estou aprendendo na prática as mais modernas tecnologias de desenvolvimento front, mobile e back.
+Sou um estudante de programação, apaixonado pelas melhores tecnologias de desenvolvimento front, mobile e back. Tenho experiência com projetos utilizando JavaScript. Sou aluno do curso FullStack B7WEB, onde estou aprendendo na prática as mais modernas tecnologias de desenvolvimento front e back.
 <br>
 <div style="display: flex">
   <a href="https://github.com/SilvanMoura">
