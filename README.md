@@ -1,8 +1,8 @@
 Olá, eu sou Silvan Moura 👋.
 ##
 - 😄 Tenho 20 anos
-- 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 4° período
-- 🌱 Estudando php e Laravel
+- 👨‍🏫 Graduando em Análise e Desenvolvimento de Sistemas - 5° período
+- 🌱 Estudando PHP, Laravel e Vue
 ##
 Sou um estudante de programação, apaixonado pelas melhores tecnologias de desenvolvimento front, mobile e back. Tenho experiência com projetos utilizando JavaScript. Sou aluno do curso FullStack B7WEB, onde estou aprendendo na prática as mais modernas tecnologias de desenvolvimento front e back.
 <br>
@@ -18,20 +18,9 @@ Sou um estudante de programação, apaixonado pelas melhores tecnologias de dese
   <img align="center" alt="Silvan-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Silvan-ReactJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Silvan-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Silvan-WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Silvan-FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Silvan-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Silvan-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Silvan-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Silvan-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Silvan-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Silvan-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
-
-<!--
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
